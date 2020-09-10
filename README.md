@@ -1,5 +1,7 @@
-### Hi there 👋
-大家好
+### Hi  👋
+我是赵瀚辰 现在就读于淄博职业学院信息工程系
+我喜欢打游戏 踢足球
+我的邮箱是2224189532@qq.com  欢迎给我发邮件
 <!--
 **ZhaoHC1/ZHaoHC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
